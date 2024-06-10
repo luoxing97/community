@@ -7,6 +7,9 @@ public class AlphaDaoHibernateImpl implements AlphaDao {
     @Override
     public String select() {
         System.out.println("-----------");
+        System.out.println("-----------");
+        System.out.println("-----------");
+        System.out.println("-----------");
         System.out.println("AlphaDaoHibernateImpl");
         return "Hibernate";
     }

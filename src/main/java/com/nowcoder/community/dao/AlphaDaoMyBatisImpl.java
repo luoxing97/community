@@ -17,6 +17,7 @@ public class AlphaDaoMyBatisImpl implements AlphaDao {
 
     public static void main(String[] args) {
         printAB();
+        System.out.println("102473868");
     }
 
     public static void printAB(){

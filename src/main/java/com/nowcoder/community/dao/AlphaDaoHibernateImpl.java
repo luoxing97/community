@@ -6,7 +6,13 @@ import org.springframework.stereotype.Repository;
 public class AlphaDaoHibernateImpl implements AlphaDao {
     @Override
     public String select() {
+        System.out.println("-----------");
         System.out.println("102473868");
+        System.out.println("-----------");
+        System.out.println("-----------");
+        System.out.println("-----------");
+        System.out.println("-----------");
+        System.out.println("AlphaDaoHibernateImpl");
         return "Hibernate";
     }
 }

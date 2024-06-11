@@ -16,7 +16,13 @@ public class AlphaDaoMyBatisImpl implements AlphaDao {
     }
 
     public static void main(String[] args) {
+        System.out.println("-----------");
+        System.out.println("AlphaDaoMyBatisImpl");
+        System.out.println("AlphaDaoMyBatisImpl");
+        System.out.println("AlphaDaoMyBatisImpl");
         printAB();
+        System.out.println("20240610---22");
+        System.out.println("20240610---23");
         System.out.println("102473868");
     }
 

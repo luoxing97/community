@@ -10,6 +10,7 @@ public class AlphaDaoHibernateImpl implements AlphaDao {
         System.out.println("-----------");
         System.out.println("-----------");
         System.out.println("-----------");
+        System.out.println("-----------");
         System.out.println("AlphaDaoHibernateImpl");
         return "Hibernate";
     }
